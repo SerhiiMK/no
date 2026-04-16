@@ -1,8 +1,8 @@
 Package: xyz.cypwn.anitime
 Name: AniTime
-Version: 1.0.1k
-Architecture: iphoneos-arm64
-Description: cute anime girls on lockscreen clocks
+Version: 1.0
+Architecture: iphoneos-arm
+Description: no
 Maintainer: CyPwn
 Author: Yan
 Section: Theme
