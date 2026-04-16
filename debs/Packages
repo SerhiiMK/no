@@ -1,4 +1,4 @@
-Package: xyz.cypwn.anitime
+Package: xyz.no.no
 Name: AniTime
 Version: 1.0
 Architecture: iphoneos-arm
@@ -7,7 +7,7 @@ Maintainer: CyPwn
 Author: Yan
 Section: Theme
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/xyz.cypwn.anitime_1.0.1k_iphoneos-arm64.deb
+Filename: debs/no
 Size: 598126
 MD5sum: 47096937b99c83703dfa6611d00e5a8e
 SHA1: 32cf4a5e687643489c3b06e7a5c1236868ce1726
